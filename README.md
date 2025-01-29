@@ -1,5 +1,11 @@
 # ChatGPT
 AI
+
+#  Все GPT -- 120+ нейросетей с аптаймом 99%
+доступ из России без VPN и блокировок
+OpenAI API для интеграций
+https://vsegpt.ru/
+
 # Как установить и использовать ИИ модель DeepSeek R-1 на вашем компьютере
 https://habr.com/ru/articles/876320/
 Using Ollama.com
